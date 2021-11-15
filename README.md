@@ -12,5 +12,9 @@ main.py
 * Plyer
 * Time
 
+### GUI Demo
+![GUI2](https://user-images.githubusercontent.com/67931219/141839573-475611fb-5fb6-4f6c-9cb1-0b1913dd6e0c.png)
+
+
 ### Author 
 @Author : [Dishant Israni](https://github.com/DishantIsrani)
